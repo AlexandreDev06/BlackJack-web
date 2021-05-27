@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mQBCvnYcQtnupHZ9WpH11oHYzkSvjyUtV7yCWiHxFKqCEXYO2Ec5M0cz+YKD+vRfRZ6bKOlezUkm7N/Zt5fJ9g==",
+  "dgSpecHash": "HDpMxaG6FmJ57kuVv6B1yQvqcQxuDlX5PlrSWfdrtEjdyGoZUyKK00J8mfctL9wVWPHp/dfBOIB+pGPGyuc9Tg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Alex\\Documents\\FACULDADE\\Tecnicas de programacao\\Black_jack_web\\Exemplo_11\\Exemplo_11\\Exemplo_11.csproj",
+  "projectFilePath": "C:\\Users\\Alex\\Documents\\FACULDADE\\Tecnicas de programacao\\Black_jack_web\\BlackJack-web\\Exemplo_11\\BlackJack-web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alex\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\Alex\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",

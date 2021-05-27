@@ -6075,11 +6075,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alex\\Documents\\FACULDADE\\Tecnicas de programacao\\Black_jack_web\\Exemplo_11\\Exemplo_11\\Exemplo_11.csproj",
-      "projectName": "Exemplo_11",
-      "projectPath": "C:\\Users\\Alex\\Documents\\FACULDADE\\Tecnicas de programacao\\Black_jack_web\\Exemplo_11\\Exemplo_11\\Exemplo_11.csproj",
+      "projectUniqueName": "C:\\Users\\Alex\\Documents\\FACULDADE\\Tecnicas de programacao\\Black_jack_web\\BlackJack-web\\Exemplo_11\\BlackJack-web.csproj",
+      "projectName": "BlackJack-web",
+      "projectPath": "C:\\Users\\Alex\\Documents\\FACULDADE\\Tecnicas de programacao\\Black_jack_web\\BlackJack-web\\Exemplo_11\\BlackJack-web.csproj",
       "packagesPath": "C:\\Users\\Alex\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alex\\Documents\\FACULDADE\\Tecnicas de programacao\\Black_jack_web\\Exemplo_11\\Exemplo_11\\obj\\",
+      "outputPath": "C:\\Users\\Alex\\Documents\\FACULDADE\\Tecnicas de programacao\\Black_jack_web\\BlackJack-web\\Exemplo_11\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

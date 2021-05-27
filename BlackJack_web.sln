@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31205.134
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exemplo_11", "Exemplo_11\Exemplo_11.csproj", "{3404AE0D-E3B6-497E-B0EA-ECC1285898F1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlackJack-web", "Exemplo_11\BlackJack-web.csproj", "{3404AE0D-E3B6-497E-B0EA-ECC1285898F1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
