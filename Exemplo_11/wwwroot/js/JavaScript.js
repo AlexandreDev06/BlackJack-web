@@ -68,6 +68,8 @@ function parar2() {
 
     if (player1 == player2) {
         resultado_total.innerHTML = "Empate!";
+    } else if (player1 <= 21 && player1 > player2) {
+        resultado_total.innerHTML = "Jogador 1 Ganhou!";
     }
 }
 
